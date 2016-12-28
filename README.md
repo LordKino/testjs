@@ -1,2 +1,2 @@
 # testjs
-Test js project1
+Test js project is only test
